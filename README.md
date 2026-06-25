@@ -105,5 +105,5 @@ Membuat laporan dan fitur export data.
 ---
 
 ## Screenshot
-- Berada di file ss
+- Berada di folder ss
 ---
