@@ -88,22 +88,20 @@ pv26-finalproject-thriftcash/
 - `ui/login_window.py` — Form login dengan validasi dan signal autentikasi
 - `ui/dashboard_page.py` — Stat cards, bar chart pendapatan 7 hari, pie chart per kategori, auto-refresh
 - `main.py` — Entry point, inisialisasi app, alur login–logout
-- `assets/style.qss` (baris 101–235) — Styling stat card, tombol, input form, dan label
+- `assets/style.qss` — Styling stat card, tombol, input form, dan label
 
 ### Aditia Rahmat Maulana (F1D02310030)
 - `ui/product_page.py` — Tabel produk, dialog tambah/edit, search real-time, filter, sorting, indikator stok
 - `ui/user_page.py` — Tabel pengguna, dialog tambah/edit, proteksi hapus akun sendiri
 - `database/db.py` — Schema 4 tabel, relasi FK, seluruh fungsi CRUD dan analitik dashboard
-- `assets/style.qss` (baris 1–100 + 287–316) — Styling global, sidebar, topbar, dan komponen POS
 
 ### Amalia Mirasafitri (F1D02310002)
 - `ui/pos_page.py` — Tabel produk, keranjang belanja, diskon, dialog pembayaran, simpan transaksi
 - `ui/report_page.py` — Tabel transaksi, filter tanggal, summary strip, dialog detail invoice
 - `utils/export.py` — Fungsi export CSV transaksi, CSV produk, PDF via ReportLab, dan struk .txt
-- `assets/style.qss` (baris 165–286 + 317–362) — Styling tabel, menu bar, scrollbar, dialog, login card, badges
 
 ---
 
 ## Screenshot
-Berada di file ss
+- Berada di file ss
 ---
