@@ -84,13 +84,13 @@ pv26-finalproject-thriftcash/
 ---
 
 ## Pembagian Tugas
-### Aditia Rahmat Maulana (F1D02310030)
+### Bagus Esa Wijaya Kusuma (F1D02310005)
 - `ui/login_window.py` — Form login dengan validasi dan signal autentikasi
 - `ui/dashboard_page.py` — Stat cards, bar chart pendapatan 7 hari, pie chart per kategori, auto-refresh
-- - `main.py` — Entry point, inisialisasi app, alur login–logout
+- `main.py` — Entry point, inisialisasi app, alur login–logout
 - `assets/style.qss` (baris 101–235) — Styling stat card, tombol, input form, dan label
 
-### Bagus Esa Wijaya Kusuma (F1D02310005)
+### Aditia Rahmat Maulana (F1D02310030)
 - `ui/product_page.py` — Tabel produk, dialog tambah/edit, search real-time, filter, sorting, indikator stok
 - `ui/user_page.py` — Tabel pengguna, dialog tambah/edit, proteksi hapus akun sendiri
 - `database/db.py` — Schema 4 tabel, relasi FK, seluruh fungsi CRUD dan analitik dashboard
